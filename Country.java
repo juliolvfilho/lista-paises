@@ -1,4 +1,3 @@
-package agill.deshopp.enums;
 
 public enum Country {
     AFG("AFG", "AF", "Afeganistão"),
@@ -18,7 +17,7 @@ public enum Country {
     ABW("ABW", "AW", "Aruba"),
     AUS("AUS", "AU", "Austrália"),
     AUT("AUT", "AT", "Áustria"),
-    AZE("AZE", "AZ  ", "Azerbaijão"),
+    AZE("AZE", "AZ", "Azerbaijão"),
     BHS("BHS", "BS", "Bahamas"),
     BHR("BHR", "BH", "Bahrein"),
     BGD("BGD", "BD", "Bangladesh"),
